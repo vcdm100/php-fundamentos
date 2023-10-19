@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 define("ESCOLA", "Treinaweb Cursos <br>");
 echo ESCOLA;
